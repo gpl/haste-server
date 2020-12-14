@@ -24,7 +24,7 @@ textarea {
 /* the line numbers */
 
 #linenos {
-  color: #ffffff;
+  color: #7B82DF;
 	z-index: -1000;
 	position: absolute;
 	top: 20px;
